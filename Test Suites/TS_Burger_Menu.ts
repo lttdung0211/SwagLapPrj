@@ -1,91 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_Login_Page</name>
+   <name>TS_Burger_Menu</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>1</numberOfRerun>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>0abef361-0456-401a-b1a0-78a6eab2eb7d</testSuiteGuid>
+   <testSuiteGuid>97502dc1-821b-41b8-a37b-adc9a3817df4</testSuiteGuid>
    <testCaseLink>
-      <guid>348123de-8b8e-49af-8a72-6556823ac6d5</guid>
+      <guid>2f5f0ea4-6e15-4fe7-b0ab-bb6606b988f0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginPage/TC01_Verify Title Page Visible</testCaseId>
+      <testCaseId>Test Cases/BurgerMenu/TC21_Verify Burger Menu Is Visible</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>405c9494-0a9e-4ce7-85b5-60751d4e32a8</guid>
+      <guid>0c557a88-8371-4684-8242-99477b4fbe6e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginPage/TC02_Verify Text Of Title Page</testCaseId>
+      <testCaseId>Test Cases/BurgerMenu/TC22_Click Burger Menu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c2d518cf-e982-4198-9bb7-cd0c30ce9638</guid>
+      <guid>d85341ae-e2a7-4720-b82e-157babe3ee7b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginPage/TC03_Verify Alert Visible When UserName and Password Are Empty</testCaseId>
+      <testCaseId>Test Cases/BurgerMenu/TC23_Verify All Items Is Visible In Burger Menu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d86349f5-7b6c-4ac4-8889-599023763c27</guid>
+      <guid>d2ef2607-2620-4560-9324-5ba39e2cd59a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginPage/TC04_Verify Text of Alert When UserName and Password Are Empty</testCaseId>
+      <testCaseId>Test Cases/BurgerMenu/TC24_Verify Text Of All Items In Burger Menu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>dcb220ce-0903-4863-92ed-e86384c54889</guid>
+      <guid>617f175d-3504-4af5-907c-316407596a3c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginPage/TC05_Verify Login Button is Visible</testCaseId>
+      <testCaseId>Test Cases/BurgerMenu/TC25_Verify About In Burger Menu Is Visible</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e63c10e0-daeb-444c-bb51-895a939ad824</guid>
+      <guid>ae7a97d9-577f-441a-b1b2-1409b7fe3807</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginPage/TC06_Verify Text of Login Button</testCaseId>
+      <testCaseId>Test Cases/BurgerMenu/TC26_Verify Text Of About In Burger Menu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>98a9d2b2-42ed-4c58-adf7-6e0a22370bb5</guid>
+      <guid>1c4bca38-0db4-4c73-9415-03ac81621aa9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginPage/TC07_Verify Error Alert Is Visible When Password Is Empty</testCaseId>
+      <testCaseId>Test Cases/BurgerMenu/TC27_Verify Log Out In Burger Menu Is Visible</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>63e302c6-cca1-41e9-9316-53db8e4b8f89</guid>
+      <guid>0ae2a051-1c75-494f-9b13-dcbb9d856453</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginPage/TC08_Verify Text Of Error Alert When Password Is Empty</testCaseId>
+      <testCaseId>Test Cases/BurgerMenu/TC28_Verify Text Of Log Out In Burger Menu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>025bb255-6bc6-46bb-a864-8815915e26aa</guid>
+      <guid>72878bb0-816a-400d-8b60-56f1f1afbde9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginPage/TC09_Verify Error Alert Is Visible When Username Is Empty</testCaseId>
+      <testCaseId>Test Cases/BurgerMenu/TC29_Verify Reset App State In Burger Menu Is Visible</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>41cdcc84-667c-4f61-bf71-632e95f31baf</guid>
+      <guid>604c6015-21a8-416c-9e6b-b340eebfbf1d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginPage/TC10_Verify Text Of Error Alert When Username Is Empty</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>a6647c12-ce6b-4652-a650-ca1ba046c378</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginPage/TC11_Verify Successful Login</testCaseId>
+      <testCaseId>Test Cases/BurgerMenu/TC30_Verify Text Of Reset App State In Burger Menu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
