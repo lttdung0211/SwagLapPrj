@@ -5,10 +5,10 @@
    <tag></tag>
    <csv-source-info>
       <is-from-test-data>false</is-from-test-data>
-      <source-url>C:\Users\Dung\Katalon Studio\SwagLapPrj\TestData\ItemLst.csv</source-url>
+      <source-url>TestData/ItemLst.csv</source-url>
       <source-type>CSV</source-type>
       <sheet-name-or-separator>COMMA</sheet-name-or-separator>
-      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-relative-path>true</is-using-relative-path>
       <is-using-first-row-as-header>true</is-using-first-row-as-header>
    </csv-source-info>
    <taken-date>2024-05-28T22:37:04.715+07:00</taken-date>
