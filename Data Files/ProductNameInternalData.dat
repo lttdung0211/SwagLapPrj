@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>LoginAccountInternalData</name>
+   <name>ProductNameInternalData</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>71db927b-6f62-4965-832a-d192124e6e60</dataFileGUID>
+   <dataFileGUID>9962de48-b764-40f8-9288-fe4d7cb337a3</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>standard_user secret_sauce Products</data>
-   <data>locked_out_user secret_sauce Products</data>
+   <data>Sauce+Labs+Backpack %2429.99</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
-      <name>Username</name>
-      <size>2</size>
+      <name>ProductName</name>
+      <size>1</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
-      <name>Password</name>
-      <size>2</size>
-   </internalDataColumns>
-   <internalDataColumns>
-      <columnIndex>2</columnIndex>
-      <name>Product</name>
-      <size>2</size>
+      <name>Price</name>
+      <size>1</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>
