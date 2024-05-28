@@ -7,9 +7,9 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator>COMMA</csvSeperator>
    <dataFileGUID>3d6d8f89-0a08-4444-9c4a-1dc076542a6f</dataFileGUID>
-   <dataSourceUrl>C:\Users\Dung\Katalon Studio\SwagLapPrj\TestData\ProductListInAboutSite.csv</dataSourceUrl>
+   <dataSourceUrl>TestData/ProductListInAboutSite.csv</dataSourceUrl>
    <driver>CSV</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName></sheetName>
